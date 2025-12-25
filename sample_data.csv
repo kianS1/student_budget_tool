@@ -1,0 +1,16 @@
+date,description,amount,type,category
+2025-12-01,Starbucks coffee,-4.50,expense,food
+2025-12-03,Grocery Aldi,-28.75,expense,food
+2025-12-05,Netflix subscription,-12.99,expense,subscriptions
+2025-12-07,Uber to campus,-8.20,expense,transport
+2025-12-10,Part-time job paycheck,250.00,income,income
+2025-12-12,Chipotle burrito,-11.50,expense,food
+2025-12-15,Phone bill,-45.00,expense,subscriptions
+2025-12-18,Textbooks Amazon,-75.00,expense,school
+2025-12-20,Weekend paycheck,180.00,income,income
+2025-12-22,Dorm rent,-600.00,expense,rent
+2025-12-24,Spotify,-9.99,expense,subscriptions
+2025-12-25,Christmas gift mom,-25.00,expense,other
+2025-12-27,Gas station,-32.50,expense,transport
+2025-12-29,Library late fee,-5.00,expense,school
+2025-12-31,Misc snacks,-7.25,expense,food
